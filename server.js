@@ -1,4 +1,4 @@
-// File 1: server.js (Backend - Node.js & Express)
+// File 1: server.js (Backend - Node.js & Express(tools))
 const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
