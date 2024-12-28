@@ -1,4 +1,4 @@
-// File 4: client/src/App.js (Frontend - React)
+// File 4: client/src/App.js (Frontend - React- trackingand data visualization)
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
