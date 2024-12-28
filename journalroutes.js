@@ -1,4 +1,4 @@
-// File 3: routes/journalRoutes.js (Journal API Routes)
+// File 3: routes/journalRoutes.js (Journal API Routes-routes and gamification)
 const express = require('express');
 const router = express.Router();
 const Journal = require('../models/Journal');
